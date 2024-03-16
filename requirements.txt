@@ -1,0 +1,7 @@
+streamlit
+google-generativeai #this is for google gemini pro
+python-dotenv # to load all the environment variables
+langchain #functionality to read the pdf
+PyPDF2 #reading the pdf
+faiss-cpu #this is used for vector embeddings
+langchain_google_genai #this is used so that with the help of langchain we will be able to generate Google generative AI
